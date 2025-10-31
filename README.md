@@ -268,3 +268,6 @@ This project is created for personal use. Feel free to modify and customize as n
 **Created with ❤️ for DARSHAN K - D TALKS**
 
 *Blending creativity with technology to create amazing digital experiences.*
+
+try here 
+https://ogdarshan.github.io/personal-website/
